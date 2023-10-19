@@ -1,0 +1,80 @@
+#Project{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 75vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.projectTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    color: red;
+}
+
+.projectbar{
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 50rem;
+    padding: 0 2rem;
+    letter-spacing: 0.07rem;
+    
+    
+}
+
+.projectBars{
+    margin: 1.5rem;
+    padding: 1rem ;
+    max-width: 75rem;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.projectbarImg{
+    overflow: hidden;
+    width: 15rem;
+    height: 8rem;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.projectbar{
+    background-color: rgb(50, 50, 50);
+    border-radius: 2rem;
+    text-align: center;
+    justify-content: center;
+    margin: 1rem ;
+    padding: 1rem;
+}
+
+
+
+.projectbarH{
+    color: red;
+    width: 20rem;
+    padding: 1rem 0;
+}
+.projectbartxt{
+    color: white;
+    padding: 1rem auto;
+    width:20rem;
+    font-size: 0.7rem;
+}
+.viewall{
+    color: red;
+    font-size: 1.3rem;
+}
+
+.projectDesc{
+    max-width: 50rem;
+
+}

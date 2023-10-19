@@ -1,0 +1,22 @@
+.FooterBox{
+    width: 100%;
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    background: rgb(50, 50, 50);
+    
+    height: 2rem;
+}
+
+.box{
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    font-weight: 300;
+}
+
+@media screen and (max-width:596px) {
+    .box{
+        font-size: 0.6rem;
+    }
+}
