@@ -16,6 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: npm test:ci
+        run: npm run test:ci
+        env:
+         CI: ""
+
+
       - name: Set up Node.js version
         uses: actions/setup-node@v1
         with:
