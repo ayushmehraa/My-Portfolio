@@ -18,7 +18,7 @@ function projects() {
         
 
      <div className="projectbar">
-        <a href="https://github.com/ayushmehraa/Kidney-Stone-Prediction" target='_blank'>
+        <a href="https://github.com/ayushmehraa/Kidney-Stone-Prediction" target='_blank' rel="noreferrer">
             <img src={P5} alt="python" className="projectbarImg" />
             <div className='projectbarH'> 
             <h1>Kidney Stone Prediction  </h1></div>
@@ -28,7 +28,7 @@ function projects() {
         </div>
 
         <div className="projectbar">
-            <a href="https://github.com/ayushmehraa/Sales-data-analysis/tree/main" target='_blank'> 
+            <a href="https://github.com/ayushmehraa/Sales-data-analysis/tree/main" target='_blank' rel="noreferrer"> 
             <img src={P1} alt="python" className="projectbarImg" />
             <div className='projectbarH'> 
             <h1>Power BI Sales Dashboard</h1></div>
@@ -38,7 +38,7 @@ function projects() {
         </div>
 
         <div className="projectbar">
-        <a href="https://github.com/ayushmehraa/Flight-Fare-Prediction" target='_blank'>
+        <a href="https://github.com/ayushmehraa/Flight-Fare-Prediction" target='_blank' rel="noreferrer">
             <img src={P4} alt="python" className="projectbarImg" />
             <div className='projectbarH'> 
             <h1>Flight Fare Prediction </h1></div>
@@ -48,7 +48,7 @@ function projects() {
         </div>
 
         <div className="projectbar">
-        <a href="https://github.com/ayushmehraa/Student-Performance-Indicator" target='_blank'>
+        <a href="https://github.com/ayushmehraa/Student-Performance-Indicator" target='_blank' rel="noreferrer">
             <img src={P6} alt="python" className="projectbarImg" />
             <div className='projectbarH'> 
             <h1>Student Performance Indicator</h1></div>
@@ -58,7 +58,7 @@ function projects() {
         </div>
 
         <div className="projectbar">
-        <a href="https://github.com/ayushmehraa/Penguin-classification" target='_blank'>
+        <a href="https://github.com/ayushmehraa/Penguin-classification" target='_blank' rel="noreferrer">
             <img src={P7} alt="python" className="projectbarImg" />
             <div className='projectbarH'> 
             <h1>Penguin Classification</h1></div>
@@ -68,7 +68,7 @@ function projects() {
         </div>
 
         <div className="projectbar">
-        <a href="https://github.com/ayushmehraa/HR-dashboard" target='_blank'>
+        <a href="https://github.com/ayushmehraa/HR-dashboard" target='_blank' rel="noreferrer">
             <img src={P2} alt="python" className="projectbarImg" />
             <div className='projectbarH'> 
             <h1>Power BI HR Dashboard</h1></div>
@@ -79,7 +79,7 @@ function projects() {
 
 
         <div className="projectbar">
-        <a href="https://github.com/ayushmehraa/Sales-Dashboard" target='_blank'>
+        <a href="https://github.com/ayushmehraa/Sales-Dashboard" target='_blank' rel="noreferrer">
             <img src={P3} alt="python" className="projectbarImg" />
             <div className='projectbarH'> 
             <h1>Power BI Sales Report</h1></div>
@@ -90,7 +90,7 @@ function projects() {
       
      </div>
      
-     <a className='viewall' href="https://github.com/ayushmehraa?tab=repositories">view all</a>
+     <a className='viewall' href="https://github.com/ayushmehraa?tab=repositories" rel="noreferrer">view all</a>
      
   </section>
   )
